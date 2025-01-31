@@ -2,13 +2,11 @@
 
 ## Tasklist
 
-Create a new Next.js 15 project using TypeScript. Ensure that the project runs properly locally by using the Next.js development server.
-
-Use CSS styling, Optimize fonts and Images and use Link to navigate between pages.
+A PostgreSQL database was successfully created in Vercel, structured to efficiently store and manage dashboard and invoices data. React Suspense was implemented to enable smooth handling of asynchronous data fetching and ensure seamless rendering. Additionally, a Skeleton UI was integrated to provide a visually appealing loading state while data is being retrieved, improving the application's responsiveness and usability.
 
 ## Learning Curve and Challengers
 
-Use layouts for each route.
+Using Pagination
 
 ## Resources
 
